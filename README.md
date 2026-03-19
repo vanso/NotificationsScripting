@@ -81,7 +81,7 @@ v1.0 - September 21, 2012
 macOS
 
 # System Requirements
-Mac OS X v10.13 or higher.
+macOS 10.13 or higher.
 
 # Languages available
 English
