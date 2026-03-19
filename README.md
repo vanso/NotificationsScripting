@@ -77,14 +77,18 @@ v1.1 - March 5, 2014
 v1.0 - September 21, 2012
 - Initial release.
 
-# Icon Design
-[Design Contest](https://www.designcontest.com/)
+# Supported platforms
+macOS
+
+# System Requirements
+Mac OS X v10.13 or higher.
 
 # Languages available
 English
 
+# Icon Design
+[Design Contest](https://www.designcontest.com/)
+
 # License
 Notifications Scripting is a donationware.
 
-# System Requirements
-Mac OS X v10.13 or higher.
