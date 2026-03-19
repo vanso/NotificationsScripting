@@ -20,7 +20,7 @@ tell application "Notifications Scripting"
 	-- Create a notification. Only the title is required at minimum.
 	-- Use "Default" for the default sound played by the user notification center.
 	-- See the Notifications Scripting dictionary for more informations.
-	display notification "My title" subtitle "My subtitle" message "My message" sound name "Default"
+	display notification "My message" with title "My title" subtitle "My subtitle"
 
 end tell
 
