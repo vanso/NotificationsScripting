@@ -50,7 +50,7 @@ using terms from application "Notifications Scripting"
 			-- 1 : the user clicked on the contents of the notification alert
 			-- 2 : the user clicked on the action button of the notification alert	
 			-- 3 : the user replied to a notification
-      -- 4 : the user clicked on the additional action button of the notification alert
+            -- 4 : the user clicked on the additional action button of the notification alert
 
 			display dialog (aTitle & return & "activation type " & aType as text)
 
